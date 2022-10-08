@@ -1,7 +1,7 @@
 # On Messenger
 
 ## Installation
-After cloning this repository, migrate to ```flutter-whatsapp-clone``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```tcc-on``` folder. Then, follow the following steps:
 - Create Firebase Project
 - Run the commands:
   - npm install -g firebase-tools
@@ -25,5 +25,5 @@ Then run the following commands to run your app:
     
 ## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
+If you have any feedback, please reach out to me at gabe.dev@icloud.com
 
