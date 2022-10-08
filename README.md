@@ -1,26 +1,4 @@
-# WhatsApp Clone
-
-Full Stack Whatsapp Clone with Flutter, Firebase & Riverpod 2.0!
-
-## Features
-- Phone Number Authentication
-- 1-1 Chatting with Contacts Only
-- Group Chatting
-- Text, Image, GIF, Audio(Recording), Video & Emoji Sharing
-- Status Visible to Contacts Only and Disappears after 24 hours
-- Video Calling
-- Online/Offline Status
-- Seen Message
-- Replying to Messages
-- Auto Scroll on New Messages
-
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/yqwfP2vXWJQ) 
-
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-whatsapp-clone/blob/master/screenshot.jpg" alt="Youtube Tutorial Image">
-</p>
-
+# On Messenger
 
 ## Installation
 After cloning this repository, migrate to ```flutter-whatsapp-clone``` folder. Then, follow the following steps:
